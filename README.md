@@ -4,5 +4,6 @@
 </p>
 
 
- I'm a Software developer who's trying to be Ninja in Front-End Devleopment  working a lot in Javascript,Reactjs , and looking forward in what's coming in technelogy.     
+ I'm a Software developer who's trying to be Ninja in Front-End Devleopment  working a lot in Javascript,Reactjs , and looking forward in what's coming in technelogy
+ I'm also intersted in PHP , .Net core and Database servers to understand to the operation that happening behind the scenes.  
 
